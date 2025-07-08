@@ -1,2 +1,3 @@
 # Latihan-branch2
-Latihan untuk belajar branching
+ini adalah latihan membuat branch di github
+
